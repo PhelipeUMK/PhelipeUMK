@@ -1,5 +1,5 @@
 ## Bem vindo(a)! 👋
-## Sou um estudante de Ciência da Computação e também sou um Desenvolvedor
+## Sou um estudante de Ciência da Computação e estou sempre em busca de novos conhecimentos
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PhelipeUMK&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
